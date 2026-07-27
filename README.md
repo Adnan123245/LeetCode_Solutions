@@ -20,6 +20,7 @@ The solutions of LeetCode 75 all at one place
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,8 @@ The solutions of LeetCode 75 all at one place
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
