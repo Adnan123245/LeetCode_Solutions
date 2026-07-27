@@ -22,6 +22,7 @@ The solutions of LeetCode 75 all at one place
 | [0011-container-with-most-water](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -39,5 +40,6 @@ The solutions of LeetCode 75 all at one place
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
