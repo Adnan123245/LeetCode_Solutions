@@ -17,6 +17,7 @@ The solutions of LeetCode 75 all at one place
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,12 @@ The solutions of LeetCode 75 all at one place
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Adnan123245/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
